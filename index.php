@@ -13,7 +13,7 @@
     <div class="container">
         <h3 class="text-center mt-5">Fake Tweet Generator</h3>
         <div class="row">
-            <form action="#" method="" class="col-md-6 mx-auto mt-3">
+            <form action="./tweet_constructor.php" method="post" class="col-md-6 mx-auto mt-3">
                 <div class="input-group mb-2">
                     <div class="input-group-prepend">
                         <div class="input-group-text">@</div>
